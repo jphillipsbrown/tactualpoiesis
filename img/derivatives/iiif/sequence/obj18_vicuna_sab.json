@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj18_vicuna_sab.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj18_vicuna_sab.json",
+      "label": "front",
+      "width": 1408,
+      "height": 1760,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj18_vicuna_sab/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj18_vicuna_sab.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj18_vicuna_sab/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj18_vicuna_sab",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1408,
+            "height": 1760
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj18_vicuna_sab.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

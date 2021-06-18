@@ -1,24 +1,19 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Exhibit: Between Page and Screen'
+author: Julie Phillips Brown
+publish_date: 2021-06-17
 permalink: /exhibits/b/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
+As much as _Between Page and Screen_ highlights the digital, it also insists on materiality, physicality, and the body: without the reader, without the book, and also, of course, without the computer, no poems are possible. What mediates between the page and the screen, after all, as the title implies, is the reader. It is the reader’s body—her tactile engagement with the book’s pages and her kinetic performance before the camera’s lens—that drives the poïetic process. _Between Page and Screen_ functions as an anti-absorptive text (as Charles Berstein might say), reminding us that reading is a physical activity that depends upon the presence of and the interaction between the material text and the body. Without the senses and agency of the reader, there can be no poem, whether on the screen or on the page.
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+{% include inline_image.html collection='tactualpoiesis' pid='obj01_borsuk_bps' %}
 
-{% include inline_image.html collection='qatar' pid='obj7' %}
+_Between Page and Screen_ is rare among contemporary collections of poetry in that it was first conceived both as a born-digital text and as a collaborative, limited-edition artist’s book. The project gained further notoriety in subsequent years following the publication of the trade edition with Siglio Press in 2012. The sumptuous materiality of the artist’s book, from its letterpress-printed pages on Rives BFK paper to its exposed butterfly binding and hand-sewn signatures, contrasts conspicuously with the digital instantiations of the text. For Borsuk, it was important that _Between Page and Screen_, both as a physical object and as a digital construct, embody the tensions between printed and digital media.
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+{% include inline_image.html collection='tactualpoiesis' pid='obj02_borsuk_bps' %}
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
+In every respect, the artist’s book edition of _Between Page and Screen_ is an invitation to the hand, as well as the eye, of the reader. The artist’s book was produced in a limited edition of twelve, in part because of its prohibitive material costs. The paper stock used for the book, Rives BFK, is a rich printmaking paper, prized by printers for its toothy, warm white surface. The butterfly binding, carefully sewn and exposed along the book’s spine, makes visible and tangible the techniques and materials of the book’s construction. In this first version, _Between Page and Screen_ also eschews color printing in favor of a starkly contrasted, black-on-white palette rendered in saturated lithographer’s ink. The cover itself is bare, however, except for a central, blind-printed logotype: a square inset with the title and a series of parallel diagonal lines. Here again, the cover suggests a text that functions texturally as well as visually.
 
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
-
-
-{% include inline_image.html collection='qatar' pid='obj2' %}
-
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+{% include inline_image.html collection='tactualpoiesis' pid='obj03_borsuk_bps' %}

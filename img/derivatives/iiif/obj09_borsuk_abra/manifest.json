@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj09_borsuk_abra/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "obj09_borsuk_abra",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj09_borsuk_abra.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj09_borsuk_abra.json",
+          "label": "front",
+          "width": 4641,
+          "height": 3094,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj09_borsuk_abra.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 4641,
+                "height": 3094
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj09_borsuk_abra.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj09_borsuk_abra/full/1140,/0/default.jpg"
+}
